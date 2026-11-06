@@ -4,6 +4,8 @@ Quilt shop & sewing studio website template with 3D effects: needle-and-thread c
 
 **Live demo:** https://abdelmoulabilel.github.io/quilt-shop-template/
 
+**Built by:** [Bilel Abdelmoula](https://bilelabdelmoula.dev), full-stack developer.
+
 ![Preview](preview.webp)
 
 ## Use it
